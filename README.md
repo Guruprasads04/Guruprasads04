@@ -1,6 +1,6 @@
 <div align="center">.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+S+Guruprasad+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Front-End+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+S+Guruprasad+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Front-End+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
 **Passionate about building intelligent systems, crafting smooth user experiences,**
 **and solving real-world problems through technology.**
@@ -47,11 +47,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guruprasads04&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guruprasads04&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Guruprasads04&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Guruprasads04&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guruprasads04&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guruprasads04&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
 
 </div>
 
